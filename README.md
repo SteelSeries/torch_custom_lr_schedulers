@@ -101,7 +101,16 @@ This work has been carried during Matéo Vial internship at [SteelSeries](https:
 If you use **torch_custom_lr_schedulers** in your work, please cite:
 
 ```BibTeX
-@article{
+@techreport{vial:hal-03882928,
+  TITLE = {{Learning rate scheduling and gradient clipping for audio source separation}},
+  AUTHOR = {Vial, Mateo and Souvira{\`a}-Labastie, Nathan},
+  URL = {https://hal.archives-ouvertes.fr/hal-03882928},
+  INSTITUTION = {{SteelSeries France}},
+  YEAR = {2022},
+  MONTH = Dec,
+  PDF = {https://hal.archives-ouvertes.fr/hal-03882928/file/Learning_rate_scheduling_and_gradient_clipping_for_audio_source_separation.pdf},
+  HAL_ID = {hal-03882928},
+  HAL_VERSION = {v1},
 }
 ```
 
