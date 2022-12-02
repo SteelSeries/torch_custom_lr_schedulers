@@ -6,7 +6,7 @@ The default parameters have been tuned on a speech enhancement task.
 
 This work has been carried during Matéo Vial internship at [SteelSeries](https://steelseries.com) France.
 
-Please find more experimental detail in the [attached report](file). 
+Please find more experimental detail in the [attached report](Learning_rate_scheduling_and_gradient_clipping_for_audio_source_separation). 
 
 ## Reference
 
