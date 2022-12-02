@@ -10,7 +10,7 @@ Please find more experimental details about [ROP2](https://github.com/SteelSerie
 
 This work has been carried during Matéo Vial internship at [SteelSeries](https://steelseries.com) France.
 
-# Maint content
+# Main content
 
 ### Class ROP2(_LRScheduler):
     """
