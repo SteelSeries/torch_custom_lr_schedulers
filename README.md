@@ -1,13 +1,12 @@
 ## About
 
-**torch_custom_lr_schedulers** is the torch implementation of several torch learning rate scheduler
-The default parameters have been tuned on an audio source separation task.
+**torch_custom_lr_schedulers** contains several torch custom learning rate schedulers.
+
+The default parameters have been tuned on a speech enhancement task.
 
 This work has been carried during Matéo Vial internship at [SteelSeries](https://steelseries.com) France.
 
-Experimental report
-
- 
+Please find more experimental detail in the [attached report](file). 
 
 ## Reference
 
