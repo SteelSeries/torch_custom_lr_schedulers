@@ -6,7 +6,7 @@ The default parameters have been tuned on a speech enhancement task.
 
 Please find more experimental details about [ROP2](https://github.com/SteelSeries/torch_custom_lr_schedulers/edit/main/README.md#class-rop2_lrscheduler), [Chained_ROP2](https://github.com/SteelSeries/torch_custom_lr_schedulers/edit/main/README.md#class-chained_rop2_lrscheduler), [CASWR](https://pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.CosineAnnealingLR.html#torch.optim.lr_scheduler.CosineAnnealingLR
 ) and [CASWR_ROP2](https://github.com/SteelSeries/torch_custom_lr_schedulers/edit/main/README.md#class-caswr_rop2_lrscheduler
-) in the [attached report](Learning_rate_scheduling_and_gradient_clipping_for_audio_source_separation). 
+) in the [attached report](Learning_rate_scheduling_and_gradient_clipping_for_audio_source_separation.pdf). 
 
 This work has been carried during Matéo Vial internship at [SteelSeries](https://steelseries.com) France.
 
